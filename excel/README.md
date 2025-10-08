@@ -1,8 +1,10 @@
 ## 📊 Excel Dashboard Overview
 
-[Download dashboard](./My_Excel_Project.xlsx)
+[Download dashboard](./bikesales.xlsx)
 
-[Download dashboard](./My_Excel_Project.xlsx)
+[Download dashboard](./coffeeOrdersData.xlsx)
 
 Here's a snapshot of the dashboard:
-![Excel Dashboard](Screenshot_Excel.png)
+![Excel Dashboard](bikesales_Dashboard.png)
+
+![Excel Dashboard](coffee_orders_data.png)
